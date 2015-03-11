@@ -17,16 +17,13 @@ Wherever you want to put the live number of players, put <?php echo $players; ?>
 <h2>Final Thoughts</h2>
 Hope you all enjoy this PHP script.
 
-If you want to order a website from me, as I am a web developer, you can contact me on my Skype.
-
-Skype: IceCubeCat101
-
-My Portfolio is here: http://milesmedia.net/.
-
+If you want to order a website from me, as I am a web developer, you can contact me on my Skype.<br>
+Skype: IceCubeCat101<br>
+My Portfolio is here: http://milesmedia.net/<br>
 Please bear in mind the wait list, and the amount of time you would be waiting: http://the-nebula.net/miles/wait.
 
 I do have my limits as well. I specialize in Hypertext Markup Language (HTML) and Cascading Style Sheets (CSS); while PHP isn't my strongest point, I do do a little.
 
-That's about it!
-Cheers,
+That's about it!<br>
+Cheers,<br>
 Miles.
