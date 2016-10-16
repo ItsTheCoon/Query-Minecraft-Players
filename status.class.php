@@ -1,11 +1,4 @@
 <?php
-
-    /**
-     * Minecraft Server Status Query
-     * @author Julian Spravil <julian.spr@t-online.de> https://github.com/FunnyItsElmo
-     * @license Free to use but dont remove the author, license and copyright
-     * @copyright © 2013 Julian Spravil
-     */
     class MinecraftServerStatus {
 
         private $timeout;
